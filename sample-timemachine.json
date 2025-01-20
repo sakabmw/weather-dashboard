@@ -1,0 +1,35 @@
+{
+  "lat": -7.246,
+  "lon": 112.7378,
+  "timezone": "Asia/Jakarta",
+  "timezone_offset": 25200,
+  "data": [
+    {
+      "dt": 1737327251,
+      "sunrise": 1737325533,
+      "sunset": 1737370444,
+      "temp": 297.89,
+      "feels_like": 298.82,
+      "pressure": 1007,
+      "humidity": 92,
+      "dew_point": 296.5,
+      "uvi": 0.14,
+      "clouds": 100,
+      "visibility": 10000,
+      "wind_speed": 1.78,
+      "wind_deg": 258,
+      "wind_gust": 2.83,
+      "weather": [
+        {
+          "id": 500,
+          "main": "Rain",
+          "description": "light rain",
+          "icon": "10d"
+        }
+      ],
+      "rain": {
+        "1h": 0.42
+      }
+    }
+  ]
+}
